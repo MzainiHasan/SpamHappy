@@ -69,8 +69,8 @@ sleep 1
 apt update && apt upgrade
 apt install python2 
 apt install git
-https://github.com/Gameye98/SpazSMS.git
-echo    -e    $ red   "NICE"
+git clone https://github.com/Gameye98/SpazSMS.git
+echo -e $red" N I C E "
 fi
 
 if [ $act = 100 ] || [ $act = 100  ]
