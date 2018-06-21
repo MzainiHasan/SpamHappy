@@ -1,5 +1,4 @@
 # SpamHappy
-cd SpamHappy
-chmod  
-777 ToolsSpamHappy.py
+cd SpamHappy < br >
+chmod 777 < br > ToolsSpamHappy.py
 ./ToolsSpamHappy.py
