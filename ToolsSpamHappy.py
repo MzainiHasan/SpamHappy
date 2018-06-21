@@ -32,7 +32,7 @@ sleep 1
 exit
 }
 
-echo -e $white" spam              v1 tools for penetration "
+echo -e $white"               v1 tools for Spam "
 echo ""
 echo -e $white" ***********************************************"
 echo -e $white" #                                                 "
@@ -69,7 +69,7 @@ sleep 1
 apt update && apt upgrade
 apt install python2 
 apt install git
-https://github.com/Gameye98/SpazSMS.git
+https://github.com/Gameye98/SpazSMS
 echo -e $red" N I C E "
 fi
 
