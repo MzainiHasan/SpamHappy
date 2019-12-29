@@ -120,8 +120,6 @@ apt install git
 
 git clone https://github.com/KANG-NEWBIE/SpamSms.git
 
-pip install requests mechanize bs4
-
 echo -e $red" N I C E "
 
 fi
