@@ -63,7 +63,7 @@ exit
 }
 
 
-echo -e $white" v1 tools for Spam "
+echo -e $white" v1.2 tools for Spam "
 
 echo ""
 
@@ -77,7 +77,7 @@ echo -e $white" # $cyan Tools Coded by$red Mz Hasan$white "
 
 echo -e $white" # $cyan Contact Me In:$red zaini.hasan13@gmail.com$white"
 
-echo -e $white" # $cyan tools spam update 2019 "
+echo -e $white" # $cyan tools spam update 2020 "
 
 echo -e $white" # "
 
@@ -85,7 +85,7 @@ echo -e $white" ***********************************************"
 
 echo ""
 
-echo -e $white" 01) santet-online"
+echo -e $white" 01) KANG-NEWBIE"
 
 echo -e $white" 02) SpazSMS"
 
@@ -108,17 +108,19 @@ then
 
 clear
 
-echo -e $blue" Installing santet-online "
+echo -e $blue" Installing KANG-NEWBIE "
 
 sleep 1
 
 apt update && apt upgrade
 
-apt install python2
+apt install python
 
 apt install git
 
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/KANG-NEWBIE/SpamSms.git
+
+pip install requests mechanize bs4
 
 echo -e $red" N I C E "
 
